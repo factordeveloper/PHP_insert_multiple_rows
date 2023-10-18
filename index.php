@@ -27,7 +27,7 @@
                   <form action="" method="POST" id="add_form">
                     <div id="show_item">
                          <div class="row">
-
+<!--
                              <div class="col-md-4 mb-3">
                                 <input type="text" name="product_name[]" id="" class="form-control" placeholder="Item Name" required>  
                              </div>
@@ -39,12 +39,14 @@
                              <div class="col-md-3 mb-3">
                                 <input type="number" name="product_qty[]" id="" class="form-control" placeholder="Item Quantity" required>  
                              </div>
+                              -->
 
                             <div class="col-md-2 mb-3 d-grid">
                                 <button class="btn btn-success add_item_btn">Add More</button>
                             </div>
-
+   
                          </div>
+                     
                     </div>
 
                    <div>
